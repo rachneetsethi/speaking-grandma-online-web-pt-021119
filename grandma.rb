@@ -1,4 +1,5 @@
-if speak_to_grandma = "CAN YOU HEAR ME?"
+speak_to_grandma = "can you hear me?"
+  
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
