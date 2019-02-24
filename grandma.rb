@@ -1,6 +1,6 @@
 speak_to_grandma = "can you hear me?"
   
-
+if speak_to_grandma.lowcase == ""
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
